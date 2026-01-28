@@ -73,7 +73,7 @@ KPI Calculations
 Data Cleaning Techniques
 
 # 📊 Dashboard
-<img width="1920" height="1080" alt="Screenshot 2025-08-02 104949" src="https://github.com/user-attachments/assets/bf7ee5c5-0683-4e2a-8b79-9562e1555460" />
+<img width="1622" height="778" alt="Screenshot 2026-01-28 102012" src="https://github.com/user-attachments/assets/7d24ba47-7ee3-4783-85a6-d2312d6ab55b" />
 
 # ✅ Final Conclusion
 
