@@ -78,3 +78,8 @@ Data Cleaning Techniques
 # ✅ Final Conclusion
 
 This project demonstrates how Excel can be effectively used to analyze sales data and build an interactive dashboard for business insights. The analysis identified top-performing outlets, high-revenue product categories, strong demand for low-fat products, and higher sales in Tier 3 locations.
+
+# 📬 Author
+
+Roshan Kumar
+Data Science Student | Excel, Power BI, Frontend Developer
