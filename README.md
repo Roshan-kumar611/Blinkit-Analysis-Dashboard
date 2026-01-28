@@ -1,4 +1,4 @@
-## 📊 BlinkIT Grocery Sales Analysis & Interactive Excel Dashboard
+# 📊 BlinkIT Grocery Sales Analysis & Interactive Excel Dashboard
 
 # Project Summary
 
@@ -73,7 +73,7 @@ KPI Calculations
 Data Cleaning Techniques
 
 # 📊 Dashboard
-<a href = https://github.com/Roshan-kumar611/Blinkit-Analysis-Dashboard/blob/main/Screenshot%202025-08-02%20104949.png>Dashboard<a>
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 104949" src="https://github.com/user-attachments/assets/bf7ee5c5-0683-4e2a-8b79-9562e1555460" />
 
 # ✅ Final Conclusion
 
